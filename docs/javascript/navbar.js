@@ -28,7 +28,7 @@ navbar.innerHTML = `
                     </ul>
                 </div>
             </div>
-            <a href="/services.html" data-aos="fade-left" data-aos-delay="300"
+            <a href="/contact.html" data-aos="fade-left" data-aos-delay="300"
                 class="w-full md:w-auto md:inline-flex hidden items-center justify-center py-4 px-10 text-base font-medium text-center text-white rounded-lg bg-[#8a0608] shadow-xs hover:opacity-80 transition-all duration-500">
                 Get Started
             </a>
@@ -55,7 +55,7 @@ navbar.innerHTML = `
                         class="hover:text-[#95a694] text-nowrap tracking-wide transition-all duration-500">Contact Us</a>
                 </li>
             </ul>
-            <a href="/services.html" data-aos="fade-left" data-aos-delay="300"
+            <a href="/contact.html" data-aos="fade-left" data-aos-delay="300"
                 class="w-full block mt-6 text-nowrap items-center justify-center p-3 text-base font-medium text-center text-white rounded-lg bg-[#8a0608] shadow-xs hover:opacity-80 transition-all duration-500">
                 Get Started
             </a>
